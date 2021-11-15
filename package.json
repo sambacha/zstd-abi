@@ -1,0 +1,21 @@
+{
+  "name": "abi-storage-zip",
+  "version": "1.0.0",
+  "description": "",
+	"type": "module",
+	"exports": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-brotli": "^3.0.0"
+  },
+  "dependencies": {
+    "branch-pipe": "^1.0.1",
+    "gulp-gzip": "^1.4.2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tgz",
+  "version": "1.0.0",
+  "description": "",
+  "files": ["src/**/*.json"],
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "ISC"
+}
