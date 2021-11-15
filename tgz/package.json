@@ -1,11 +1,7 @@
 {
-  "name": "tgz",
-  "version": "1.0.0",
-  "description": "",
+  "name": "abi-sushiswap-frontend",
+  "version": "0.0.0",
+  "description": "ABI files from SushiSWap frontend",
   "files": ["src/**/*.json"],
-  "scripts": {
-  },
-  "keywords": [],
-  "author": "sam bacha",
-  "license": "ISC"
+  "license": "MIT"
 }
